@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungjayyoung&show_icons=true&theme=highcontrast)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdwodud11)](https://solved.ac/wjdwodud11)
