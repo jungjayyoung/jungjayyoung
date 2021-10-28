@@ -3,9 +3,9 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdwodud11)](https://solved.ac/wjdwodud11)
 
-Baekjoon Online Judge 프로필
+[Baekjoon Online Judge 프로필](https://solved.ac/profile/wjdwodud11)
 
-https://solved.ac/profile/wjdwodud11
+
 
 <!--
 **jungjayyoung/jungjayyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
