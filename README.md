@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungjayyoung&show_icons=true&theme=highcontrast)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdwodud11)](https://solved.ac/wjdwodud11)
+
 <!--
 **jungjayyoung/jungjayyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
